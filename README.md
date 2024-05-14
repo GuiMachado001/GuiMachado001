@@ -1,5 +1,6 @@
-<h2 align="left">Olá 👋! eu sou o Guilherme Machado</h2>
-
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=9000&lines=olá!👋+eu+sou+o+Guilherme+Machado.....!;" />
+</h1>
 ###
 
 <div align="center">
