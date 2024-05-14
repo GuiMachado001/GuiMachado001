@@ -45,5 +45,5 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/GuiMachado001/GuiMachado001/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GuiMachado001/GuiMachado001/blob/output/github-contribution-grid-snake.svg)
 ###
