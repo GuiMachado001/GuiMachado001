@@ -9,7 +9,7 @@
 <div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiMachado001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx_MgpUITExojHPzRwmXI4ANqxrd0wnA-1MNdNrj8K5mbURnTwQbH9WkeYiX0KCTJeZUc&usqp=CAU"  />
+  <img align="left" height="150" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
 </div>
 
 
