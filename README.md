@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  💻 Desenvolvedor Full Stack em formação <br>
+  💻 Desenvolvedor Full Stack.<br>
   🎓 ADS | Fábrica de Software SENAC | Mate Academy <br>
-  🚀 Apaixonado por tecnologia, código limpo e aprendizado contínuo
+  🚀 Ttecnologia, código limpo e aprendizado contínuo
 </p>
 
 ---
@@ -21,7 +21,6 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
